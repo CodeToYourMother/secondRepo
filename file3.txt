@@ -1,1 +1,2 @@
 This is file3.txt created locally
+This represents a bugfiXXX
